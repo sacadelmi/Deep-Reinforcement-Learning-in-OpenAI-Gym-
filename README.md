@@ -19,9 +19,12 @@ Training involves the `trainTaxi()` function, implementing the Q-learning algori
 The `runSimulation()` function tests the trained agent across multiple episodes. Rendered frames from simulations create an animated visualization, revealing the agent's decision-making process. Key metrics, including average epochs per episode and failed drop-offs, indicate the agent's performance. The agent demonstrates successful navigation with minimal failed deliveries and a low average number of epochs per episode.
 
 ### Example Simulation
-- **Initial Environment:**
+#### Initial Environment:**
+
 ![Initial Environment](https://github.com/sacadelmi/Deep-Reinforcement-Learning-in-OpenAI-Gym-/blob/main/start.png)
-- **Final Environment:**
+
+#### Final Environment:**
+
 ![Final Environment](https://github.com/sacadelmi/Deep-Reinforcement-Learning-in-OpenAI-Gym-/blob/main/end.png)
 
 #### Simulation Data:
